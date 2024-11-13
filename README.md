@@ -142,7 +142,8 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 
 ### III) Perform object detection with label in an image:
 
-![Screenshot 2024-11-13 180815](https://github.com/user-attachments/assets/21b9459d-18c0-4796-8a91-bddc2da536ae)
+![image](https://github.com/user-attachments/assets/0599ec8d-6e35-4408-88e0-c4c619310a1a)
+
 
 ## Result:
 Thus, a python program using OpenCV for following image manipulations is done successfully.
